@@ -6,8 +6,7 @@
 	  "dom",
 	  "dom.iterable",
 	  "esnext"
-	],
-	"skipLibCheck": true
+	]
   },
   "include": [
 	"source",
