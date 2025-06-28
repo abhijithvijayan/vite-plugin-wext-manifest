@@ -15,7 +15,7 @@ import transformer, {
   BrowserType,
   browserVendors,
 } from 'wext-manifest-transformer';
-import {PLUGIN_NAME} from './constants';
+import {PLUGIN_NAME} from './constants.js';
 
 interface WextManifestOptions {
   /**

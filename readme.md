@@ -4,12 +4,6 @@
   <a href="https://www.npmjs.com/package/vite-plugin-wext-manifest">
     <img src="https://img.shields.io/npm/v/vite-plugin-wext-manifest" alt="NPM" />
   </a>
-  <a href="https://travis-ci.com/abhijithvijayan/vite-plugin-wext-manifest">
-    <img src="https://travis-ci.com/abhijithvijayan/vite-plugin-wext-manifest.svg?branch=main" alt="Travis Build" />
-  </a>
-  <a href="https://david-dm.org/abhijithvijayan/vite-plugin-wext-manifest">
-    <img src="https://img.shields.io/david/abhijithvijayan/vite-plugin-wext-manifest.svg?colorB=orange" alt="DEPENDENCIES" />
-  </a>
   <a href="https://github.com/abhijithvijayan/vite-plugin-wext-manifest/blob/main/license">
     <img src="https://img.shields.io/github/license/abhijithvijayan/vite-plugin-wext-manifest.svg" alt="LICENSE" />
   </a>
@@ -58,7 +52,7 @@ Checkout [web-extension-starter](https://github.com/abhijithvijayan/web-extensio
 
 ## Installation
 
-Ensure you have [Node.js](https://nodejs.org) 10 or later installed. Then run the following:
+Ensure you have [Node.js](https://nodejs.org) 18 or later installed. Then run the following:
 
 ```sh
 # via npm

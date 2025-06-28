@@ -1,7 +1,3 @@
-import plugin from './plugin';
+import plugin from './plugin.js';
 
 export default plugin;
-
-// For CommonJS default export support
-module.exports = plugin;
-module.exports.default = plugin;
