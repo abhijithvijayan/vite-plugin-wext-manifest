@@ -1,6 +1,6 @@
 {
 	"name": "vite-plugin-wext-manifest",
-	"version": "1.2.1",
+	"version": "1.2.2",
 	"description": "Vite plugin that lets you specify `manifest.json` properties to appear only in specific browsers.",
 	"license": "MIT",
 	"repository": "https://github.com/abhijithvijayan/vite-plugin-wext-manifest.git",
