@@ -1,1 +1,1 @@
-export const PLUGIN_NAME = 'vite-plugin-wext-manifest';
+export const PLUGIN_NAME = "vite-plugin-wext-manifest";
