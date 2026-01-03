@@ -79,7 +79,7 @@ export default function plugin(options: WextManifestOptions): Plugin {
               ...options,
               cwd: path.dirname(packageJsonPath),
             });
-            if (transformed.version) {
+            if (packageJson.version) {
               transformed.version = packageJson.version.replace('-beta.', '.'); // eg: replaces `2.0.0-beta.1` to `2.0.0.1`
             }
           } catch (err) {
